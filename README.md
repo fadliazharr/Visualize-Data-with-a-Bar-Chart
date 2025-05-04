@@ -54,8 +54,4 @@ Each entry is an array with:
 [https://visualize-data-with-a-bar-chart.vercel.app/](https://visualize-data-with-a-bar-chart.vercel.app/)
 
 
-This project was built as part of FreeCodeCamp’s Data Visualization Certification and is open for educational and demonstration purposes.
 
----
-
-Let me know if you'd like this exported as a file or added to a repository structure.
