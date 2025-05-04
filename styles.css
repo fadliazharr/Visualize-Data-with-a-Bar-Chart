@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+#title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.bar {
+  fill: #4CAF50;
+}
+
+.bar:hover {
+  fill: #ff7f0e;
+}
+
+#tooltip {
+  position: absolute;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  border-radius: 5px;
+  pointer-events: none;
+  font-size: 12px;
+  text-align: left;
+  opacity: 0;
+}
+
+.axis-label {
+  font-size: 12px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.tick text {
+  font-size: 10px;
+}
